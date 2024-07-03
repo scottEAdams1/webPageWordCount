@@ -1,0 +1,23 @@
+{
+  "name": "webpagewordcount",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to take a website URL and return the number of each word on the page",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottEAdams1/webPageWordCount.git"
+  },
+  "author": "scottEAdams1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottEAdams1/webPageWordCount/issues"
+  },
+  "homepage": "https://github.com/scottEAdams1/webPageWordCount#readme",
+  "dependencies": {
+    "jsdom": "^24.1.0"
+  }
+}
